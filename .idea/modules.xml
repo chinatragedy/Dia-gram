@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/00_Duck/00_Duck.iml" filepath="$PROJECT_DIR$/00_Duck/00_Duck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_OberverPattern/01_OberverPattern.iml" filepath="$PROJECT_DIR$/01_OberverPattern/01_OberverPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatternByZJH.iml" filepath="$PROJECT_DIR$/DesignPatternByZJH.iml" />
+    </modules>
+  </component>
+</project>
