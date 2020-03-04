@@ -2,73 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6aff406a-5196-4e9a-89bf-4c7bf815a627" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/03_FactoryPattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0301/BasePizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0301/ChiCheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0301/ChiClamPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0301/ChiPepperonPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0301/ChiPizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0301/ChiVeggiePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0301/Main0301.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0301/NYCheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0301/NYClamPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0301/NYPepperonPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0301/NYPizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0301/NYVeggiePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0301/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0301/SimplePizzaFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/BasePizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/BlackOlives.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Cheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/ChiCheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/ChiClamPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/ChiPepperonPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/ChiPizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/ChiVeggiePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/ChicagoPizzaIngredientFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Clams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Dough.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Eggplant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/FreshClams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/FrozenClams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Garlic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/MarinaraSauce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/MozzarellaCheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Mushroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/NYCheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/NYClamPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/NYPepperonPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/NYPizzaIngredientFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/NYPizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/NYVeggiePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Onion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/ParmesanCheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Pepperoni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/PizzaIngredientFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/PlumTomatoSauce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/RedPepper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/ReggianoCheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Sauce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/SlicedPepperoni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Spinach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/ThickCrustDough.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/ThinCrustDough.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Veggies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0201/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0201/CondimentDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0201/DarkRoast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0201/Decaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0201/Espresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0201/HouseBlend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0201/Main0201.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0201/Mocha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0201/Soy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0201/Whip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0202/Beverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0202/CondimentDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0202/DarkRoast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0202/Decaf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0202/Espresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0202/HouseBlend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0202/Main0202.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0202/Mocha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0202/Soy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0202/Whip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0203/LowCaseInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0203/Main0203.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/00_Duck/META-INF/00_Duck.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/01_OberverPattern/CurrentConditionsDisplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/01_OberverPattern/CurrentConditionsDisplay.class" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -81,9 +64,42 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="261" />
+    <option name="y" value="3" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
   <component name="ProjectId" id="1YeOJrD3HMARPkdKb5AMcKNkdgv" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LearnDesignPattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LearnDesignPattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -93,13 +109,14 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/.gitignore" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/03_FactoryPattern/src/Example0302" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/02_DecoratorPattern" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -111,10 +128,45 @@
       <recent name="$PROJECT_DIR$/03_FactoryPattern/src" />
     </key>
   </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="RunManager" selected="Application.Main0301">
     <configuration name="Demo_00_Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Demo_00_Main" />
       <module name="00_Duck" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main0201" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example0201.Main0201" />
+      <module name="02_DecoratorPattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main0202" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example0202.Main0202" />
+      <module name="02_DecoratorPattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main0203" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example0203.Main0203" />
+      <module name="02_DecoratorPattern" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -122,6 +174,13 @@
     <configuration name="Main0301" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Example0301.Main0301" />
       <module name="03_FactoryPattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObserverSimMain" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObserverSimMain" />
+      <module name="01_OberverPattern" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -135,6 +194,10 @@
     </configuration>
     <list>
       <item itemvalue="Application.Demo_00_Main" />
+      <item itemvalue="Application.ObserverSimMain" />
+      <item itemvalue="Application.Main0201" />
+      <item itemvalue="Application.Main0202" />
+      <item itemvalue="Application.Main0203" />
       <item itemvalue="Application.Main0301" />
     </list>
   </component>
@@ -152,6 +215,36 @@
       <workItem from="1583309692394" duration="9799000" />
     </task>
     <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="261" y="3" width="1400" height="1000" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -218,6 +311,15 @@
       <screen x="0" y="23" width="2560" height="1341" />
     </state>
     <state x="816" y="307" width="670" height="676" key="search.everywhere.popup/2560.392.1920.1080/0.23.2560.1341@0.23.2560.1341" timestamp="1583311972649" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
