@@ -2,36 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6aff406a-5196-4e9a-89bf-4c7bf815a627" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0201/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0201/CondimentDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0201/DarkRoast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0201/Decaf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0201/Espresso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0201/HouseBlend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0201/Main0201.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0201/Mocha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0201/Soy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0201/Whip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0202/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0202/CondimentDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0202/DarkRoast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0202/Decaf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0202/Espresso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0202/HouseBlend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0202/Main0202.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0202/Mocha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0202/Soy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0202/Whip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0203/LowCaseInputStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_DecoratorPattern/src/Example0203/Main0203.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0301/ChiVeggiePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0301/ChiVeggiePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/NYCheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/NYCheesePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/NYVeggiePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/NYVeggiePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00_Duck/Demo_00_Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/00_Duck/Demo_00_Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00_Duck/Duck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/00_Duck/Duck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00_Duck/FlyNoWay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/00_Duck/FlyNoWay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00_Duck/FlyRocketAwsome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/00_Duck/FlyRocketAwsome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00_Duck/FlyWithWings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/00_Duck/FlyWithWings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00_Duck/IFlyBehavior.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/00_Duck/IFlyBehavior.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00_Duck/IQuackBehavior.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/00_Duck/IQuackBehavior.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00_Duck/MallardDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/00_Duck/MallardDuck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00_Duck/ModelDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/00_Duck/ModelDuck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00_Duck/MuteQuack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/00_Duck/MuteQuack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00_Duck/Quack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/00_Duck/Quack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/00_Duck/Squeak.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/00_Duck/Squeak.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/01_OberverPattern/CurrentConditionsDisplay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/01_OberverPattern/CurrentConditionsDisplay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/01_OberverPattern/IDisplayElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/01_OberverPattern/IDisplayElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/01_OberverPattern/IObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/01_OberverPattern/IObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/01_OberverPattern/ISubject.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/01_OberverPattern/ISubject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/01_OberverPattern/ObserverSimMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/01_OberverPattern/ObserverSimMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/01_OberverPattern/WeatherData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/01_OberverPattern/WeatherData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03_FactoryPattern/Example0301/BasePizzaStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/03_FactoryPattern/Example0301/BasePizzaStore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03_FactoryPattern/Example0301/ChiCheesePizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/03_FactoryPattern/Example0301/ChiCheesePizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03_FactoryPattern/Example0301/ChiClamPizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/03_FactoryPattern/Example0301/ChiClamPizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03_FactoryPattern/Example0301/ChiPepperonPizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/03_FactoryPattern/Example0301/ChiPepperonPizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03_FactoryPattern/Example0301/ChiPizzaStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/03_FactoryPattern/Example0301/ChiPizzaStore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03_FactoryPattern/Example0301/ChiVeggiePizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/03_FactoryPattern/Example0301/ChiVeggiePizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03_FactoryPattern/Example0301/Main0301.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/03_FactoryPattern/Example0301/Main0301.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03_FactoryPattern/Example0301/NYCheesePizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/03_FactoryPattern/Example0301/NYCheesePizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03_FactoryPattern/Example0301/NYClamPizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/03_FactoryPattern/Example0301/NYClamPizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03_FactoryPattern/Example0301/NYPepperonPizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/03_FactoryPattern/Example0301/NYPepperonPizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03_FactoryPattern/Example0301/NYPizzaStore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/03_FactoryPattern/Example0301/NYPizzaStore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03_FactoryPattern/Example0301/NYVeggiePizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/03_FactoryPattern/Example0301/NYVeggiePizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/03_FactoryPattern/Example0301/Pizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/03_FactoryPattern/Example0301/Pizza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatternByZJH/com/zjh/learn/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatternByZJH/com/zjh/learn/Main.class" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,19 +49,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -64,42 +61,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="261" />
-    <option name="y" value="3" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
-  </component>
   <component name="ProjectId" id="1YeOJrD3HMARPkdKb5AMcKNkdgv" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="LearnDesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LearnDesignPattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -113,7 +77,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/02_DecoratorPattern" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -128,22 +92,9 @@
       <recent name="$PROJECT_DIR$/03_FactoryPattern/src" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Main0301">
+  <component name="RunManager" selected="Application.Main0201">
     <configuration name="Demo_00_Main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="Demo_00_Main" />
       <module name="00_Duck" />
       <method v="2">
@@ -151,6 +102,7 @@
       </method>
     </configuration>
     <configuration name="Main0201" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8.0_212" />
       <option name="MAIN_CLASS_NAME" value="Example0201.Main0201" />
       <module name="02_DecoratorPattern" />
       <method v="2">
@@ -212,82 +164,69 @@
       <option name="presentableId" value="Default" />
       <updated>1582643836899</updated>
       <workItem from="1583299529600" duration="6102000" />
-      <workItem from="1583309692394" duration="9799000" />
+      <workItem from="1583309692394" duration="11256000" />
     </task>
     <servers />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="261" y="3" width="1400" height="1000" extended-state="0" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="613" y="258" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583301834084">
-      <screen x="0" y="23" width="2560" height="1342" />
+    <state x="869" y="305" key="#Project_Structure" timestamp="1583375352234">
+      <screen x="0" y="23" width="2560" height="1340" />
     </state>
-    <state x="613" y="258" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.392.1920.1080/0.23.2560.1340@0.23.2560.1340" timestamp="1583299773591" />
+    <state x="869" y="305" key="#Project_Structure/2560.392.1920.1080/0.23.2560.1340@0.23.2560.1340" timestamp="1583375352234" />
+    <state x="613" y="258" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583375295358">
+      <screen x="0" y="23" width="2560" height="1340" />
+    </state>
+    <state x="613" y="258" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.392.1920.1080/0.23.2560.1340@0.23.2560.1340" timestamp="1583375295358" />
     <state x="613" y="258" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.392.1920.1080/0.23.2560.1342@0.23.2560.1342" timestamp="1583301834084" />
-    <state x="1019" y="378" key="#com.intellij.ide.util.MemberChooser" timestamp="1583322898027">
+    <state x="1019" y="378" key="#com.intellij.ide.util.MemberChooser" timestamp="1583374945616">
       <screen x="0" y="23" width="2560" height="1340" />
     </state>
-    <state x="1019" y="378" key="#com.intellij.ide.util.MemberChooser/2560.392.1920.1080/0.23.2560.1340@0.23.2560.1340" timestamp="1583322898027" />
+    <state x="1019" y="378" key="#com.intellij.ide.util.MemberChooser/2560.392.1920.1080/0.23.2560.1340@0.23.2560.1340" timestamp="1583374945616" />
     <state x="1019" y="378" key="#com.intellij.ide.util.MemberChooser/2560.392.1920.1080/0.23.2560.1341@0.23.2560.1341" timestamp="1583311977505" />
-    <state x="886" y="388" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583301831488">
-      <screen x="0" y="23" width="2560" height="1342" />
-    </state>
-    <state x="886" y="388" key="#com.intellij.ide.util.TreeClassChooserDialog/2560.392.1920.1080/0.23.2560.1342@0.23.2560.1342" timestamp="1583301831488" />
-    <state x="982" y="503" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583299658360">
+    <state x="886" y="387" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583375121345">
       <screen x="0" y="23" width="2560" height="1340" />
     </state>
-    <state x="982" y="503" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/2560.392.1920.1080/0.23.2560.1340@0.23.2560.1340" timestamp="1583299658360" />
+    <state x="886" y="387" key="#com.intellij.ide.util.TreeClassChooserDialog/2560.392.1920.1080/0.23.2560.1340@0.23.2560.1340" timestamp="1583375121345" />
+    <state x="886" y="388" key="#com.intellij.ide.util.TreeClassChooserDialog/2560.392.1920.1080/0.23.2560.1342@0.23.2560.1342" timestamp="1583301831488" />
+    <state x="881" y="316" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1583375311335">
+      <screen x="0" y="23" width="2560" height="1340" />
+    </state>
+    <state x="881" y="316" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/2560.392.1920.1080/0.23.2560.1340@0.23.2560.1340" timestamp="1583375311335" />
+    <state x="982" y="503" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583374122729">
+      <screen x="0" y="23" width="2560" height="1340" />
+    </state>
+    <state x="982" y="503" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/2560.392.1920.1080/0.23.2560.1340@0.23.2560.1340" timestamp="1583374122729" />
     <state x="1342" y="333" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583309612704">
       <screen x="0" y="23" width="2560" height="1341" />
     </state>
     <state x="1342" y="333" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/2560.392.1920.1080/0.23.2560.1341@0.23.2560.1341" timestamp="1583309612704" />
-    <state width="1693" height="324" key="GridCell.Tab.0.bottom" timestamp="1583312156264">
-      <screen x="0" y="23" width="2560" height="1341" />
+    <state width="1400" height="347" key="GridCell.Tab.0.bottom" timestamp="1583375277003">
+      <screen x="0" y="23" width="2560" height="1340" />
     </state>
+    <state width="1400" height="347" key="GridCell.Tab.0.bottom/2560.392.1920.1080/0.23.2560.1340@0.23.2560.1340" timestamp="1583375277003" />
     <state width="1693" height="324" key="GridCell.Tab.0.bottom/2560.392.1920.1080/0.23.2560.1341@0.23.2560.1341" timestamp="1583312156264" />
-    <state width="1693" height="324" key="GridCell.Tab.0.center" timestamp="1583312156264">
-      <screen x="0" y="23" width="2560" height="1341" />
+    <state width="1400" height="347" key="GridCell.Tab.0.center" timestamp="1583375277002">
+      <screen x="0" y="23" width="2560" height="1340" />
     </state>
+    <state width="1400" height="347" key="GridCell.Tab.0.center/2560.392.1920.1080/0.23.2560.1340@0.23.2560.1340" timestamp="1583375277002" />
     <state width="1693" height="324" key="GridCell.Tab.0.center/2560.392.1920.1080/0.23.2560.1341@0.23.2560.1341" timestamp="1583312156264" />
-    <state width="1693" height="324" key="GridCell.Tab.0.left" timestamp="1583312156263">
-      <screen x="0" y="23" width="2560" height="1341" />
+    <state width="1400" height="347" key="GridCell.Tab.0.left" timestamp="1583375277001">
+      <screen x="0" y="23" width="2560" height="1340" />
     </state>
+    <state width="1400" height="347" key="GridCell.Tab.0.left/2560.392.1920.1080/0.23.2560.1340@0.23.2560.1340" timestamp="1583375277001" />
     <state width="1693" height="324" key="GridCell.Tab.0.left/2560.392.1920.1080/0.23.2560.1341@0.23.2560.1341" timestamp="1583312156263" />
-    <state width="1693" height="324" key="GridCell.Tab.0.right" timestamp="1583312156264">
-      <screen x="0" y="23" width="2560" height="1341" />
+    <state width="1400" height="347" key="GridCell.Tab.0.right" timestamp="1583375277002">
+      <screen x="0" y="23" width="2560" height="1340" />
     </state>
+    <state width="1400" height="347" key="GridCell.Tab.0.right/2560.392.1920.1080/0.23.2560.1340@0.23.2560.1340" timestamp="1583375277002" />
     <state width="1693" height="324" key="GridCell.Tab.0.right/2560.392.1920.1080/0.23.2560.1341@0.23.2560.1341" timestamp="1583312156264" />
+    <state x="881" y="342" width="844" height="592" key="NewModule_or_Project.wizard" timestamp="1583375250496">
+      <screen x="0" y="23" width="2560" height="1340" />
+    </state>
+    <state x="881" y="342" width="844" height="592" key="NewModule_or_Project.wizard/2560.392.1920.1080/0.23.2560.1340@0.23.2560.1340" timestamp="1583375250496" />
     <state x="650" y="234" key="SettingsEditor" timestamp="1583309904396">
       <screen x="0" y="23" width="2560" height="1341" />
     </state>
@@ -311,87 +250,5 @@
       <screen x="0" y="23" width="2560" height="1341" />
     </state>
     <state x="816" y="307" width="670" height="676" key="search.everywhere.popup/2560.392.1920.1080/0.23.2560.1341@0.23.2560.1341" timestamp="1583311972649" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>00_Duck</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
