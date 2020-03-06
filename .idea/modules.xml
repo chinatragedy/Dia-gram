@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/03_FactoryPattern/03_FactoryPattern.iml" filepath="$PROJECT_DIR$/03_FactoryPattern/03_FactoryPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_SingletonPattern/04_SingletonPattern.iml" filepath="$PROJECT_DIR$/04_SingletonPattern/04_SingletonPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/05_CommandPattern/05_CommandPattern.iml" filepath="$PROJECT_DIR$/05_CommandPattern/05_CommandPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_AdapterPattern/06_AdapterPattern.iml" filepath="$PROJECT_DIR$/06_AdapterPattern/06_AdapterPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_FacadePattern/07_FacadePattern.iml" filepath="$PROJECT_DIR$/07_FacadePattern/07_FacadePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_TemplatePattern/08_TemplatePattern.iml" filepath="$PROJECT_DIR$/08_TemplatePattern/08_TemplatePattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatternByZJH.iml" filepath="$PROJECT_DIR$/DesignPatternByZJH.iml" />
     </modules>
   </component>
