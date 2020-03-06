@@ -2,51 +2,76 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6aff406a-5196-4e9a-89bf-4c7bf815a627" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Main0302.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Pizza/ClamPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Pizza/PepperoniPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Pizza/VeggiePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Store/ChiPizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Store/NYPizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_SingletonPattern/src/Example0401/ChocolateBoiler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_SingletonPattern/src/Example0401/Main0401.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_SingletonPattern/src/Example0401/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_SingletonPattern/src/Example0402/ChocolateBoiler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_SingletonPattern/src/Example0402/Main0402.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_SingletonPattern/src/Example0402/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0501/Command/GarageDoorOpenCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0501/Command/ICommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0501/Command/LightOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0501/Command/SimpleRemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0501/Main0501.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0501/Things/CeilingFan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0501/Things/GarageDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0501/Things/Hottub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0501/Things/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0501/Things/Stereo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0501/Things/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0502/Command/CeilingFanOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0502/Command/CeilingFanOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0502/Command/GarageDoorDownCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0502/Command/GarageDoorOpenCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0502/Command/GarageDoorUpCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0502/Command/HottubOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0502/Command/HottubOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0502/Command/ICommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0502/Command/LightOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0502/Command/LightOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0502/Command/LivingroomLightOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0502/Command/LivingroomLightOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0502/Command/NoCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0502/Command/SimpleRemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0502/Command/StereoOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0502/Command/StereoOnWithCDCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0502/Main0502.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0502/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0502/Things/CeilingFan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0502/Things/GarageDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0502/Things/Hottub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0502/Things/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0502/Things/Stereo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0502/Things/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0503/Command/CeilingFanOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0503/Command/CeilingFanOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0503/Command/GarageDoorDownCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0503/Command/GarageDoorOpenCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0503/Command/GarageDoorUpCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0503/Command/HottubOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0503/Command/HottubOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0503/Command/ICommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0503/Command/LightOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0503/Command/LightOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0503/Command/LivingroomLightOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0503/Command/LivingroomLightOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0503/Command/MacroCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0503/Command/NoCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0503/Command/SimpleRemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0503/Command/StereoOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0503/Command/StereoOnWithCDCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0503/Command/TVOffCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0503/Command/TVOnCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0503/Main0503.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0503/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0503/Things/CeilingFan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0503/Things/GarageDoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0503/Things/Hottub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0503/Things/Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0503/Things/Stereo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_CommandPattern/src/Example0503/Things/TV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/BasePizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Store/BasePizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/BlackOlives.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Ingredient/BlackOlives.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Cheese.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Ingredient/Cheese.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/ChiCheesePizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/ChiClamPizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/ChiPepperonPizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/ChiPizzaStore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/ChiVeggiePizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/ChicagoPizzaIngredientFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Factory/ChicagoPizzaIngredientFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Clams.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Ingredient/Clams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Dough.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Ingredient/Dough.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Eggplant.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Ingredient/Eggplant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/FreshClams.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Ingredient/FreshClams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/FrozenClams.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Ingredient/FrozenClams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Garlic.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Ingredient/Garlic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/MarinaraSauce.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Ingredient/MarinaraSauce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/MozzarellaCheese.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Ingredient/MozzarellaCheese.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Mushroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Ingredient/Mushroom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/NYCheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Pizza/CheesePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/NYClamPizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/NYPepperonPizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/NYPizzaIngredientFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Factory/NYPizzaIngredientFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/NYPizzaStore.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/NYVeggiePizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Onion.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Ingredient/Onion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/ParmesanCheese.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Ingredient/ParmesanCheese.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Pepperoni.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Ingredient/Pepperoni.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Pizza/Pizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/PizzaIngredientFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Factory/PizzaIngredientFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/PlumTomatoSauce.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Ingredient/PlumTomatoSauce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/RedPepper.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Ingredient/RedPepper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/ReggianoCheese.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Ingredient/ReggianoCheese.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Sauce.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Ingredient/Sauce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/SlicedPepperoni.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Ingredient/SlicedPepperoni.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Spinach.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Ingredient/Spinach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/ThickCrustDough.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Ingredient/ThickCrustDough.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/ThinCrustDough.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Ingredient/ThinCrustDough.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Veggies.java" beforeDir="false" afterPath="$PROJECT_DIR$/03_FactoryPattern/src/Example0302/Ingredient/Veggies.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +107,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/.gitignore" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/02_DecoratorPattern" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/05_CommandPattern/src/Example0503/Command" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.25811207" />
@@ -90,15 +115,19 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Example0402" />
       <recent name="Example0302" />
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/03_FactoryPattern/src/Example0302" />
-      <recent name="$PROJECT_DIR$/03_FactoryPattern/src" />
+      <recent name="$PROJECT_DIR$/05_CommandPattern/src/Example0503/Command" />
+      <recent name="$PROJECT_DIR$/05_CommandPattern/src/Example0503" />
+      <recent name="$PROJECT_DIR$/05_CommandPattern/src/Example0502/Command" />
+      <recent name="$PROJECT_DIR$/05_CommandPattern/src/Example0502" />
+      <recent name="$PROJECT_DIR$/05_CommandPattern/src/Example0501" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main0302">
+  <component name="RunManager" selected="Application.Main0503">
     <configuration name="Demo_00_Main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="MAIN_CLASS_NAME" value="Demo_00_Main" />
@@ -143,6 +172,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main0401" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example0401.Main0401" />
+      <module name="04_SingletonPattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main0501" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example0501.Main0501" />
+      <module name="05_CommandPattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main0502" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example0502.Main0502" />
+      <module name="05_CommandPattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main0503" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example0503.Main0503" />
+      <module name="05_CommandPattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ObserverSimMain" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ObserverSimMain" />
       <module name="01_OberverPattern" />
@@ -158,7 +215,11 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main0502" />
+      <item itemvalue="Application.Main0503" />
       <item itemvalue="Application.Main0302" />
+      <item itemvalue="Application.Main0401" />
+      <item itemvalue="Application.Main0501" />
       <item itemvalue="Application.Demo_00_Main" />
       <item itemvalue="Application.ObserverSimMain" />
       <item itemvalue="Application.Main0201" />
@@ -179,7 +240,7 @@
       <updated>1582643836899</updated>
       <workItem from="1583299529600" duration="6102000" />
       <workItem from="1583309692394" duration="12525000" />
-      <workItem from="1583376673808" duration="967000" />
+      <workItem from="1583376673808" duration="19266000" />
     </task>
     <servers />
   </component>
@@ -191,20 +252,20 @@
       <screen x="0" y="23" width="2560" height="1340" />
     </state>
     <state x="811" y="302" key="#Project_Structure/2560.392.1920.1080/0.23.2560.1340@0.23.2560.1340" timestamp="1583376775721" />
-    <state x="613" y="258" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583376704081">
+    <state x="613" y="258" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583406435102">
       <screen x="0" y="23" width="2560" height="1340" />
     </state>
-    <state x="613" y="258" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.392.1920.1080/0.23.2560.1340@0.23.2560.1340" timestamp="1583376704081" />
+    <state x="613" y="258" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.392.1920.1080/0.23.2560.1340@0.23.2560.1340" timestamp="1583406435102" />
     <state x="613" y="258" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.392.1920.1080/0.23.2560.1342@0.23.2560.1342" timestamp="1583301834084" />
-    <state x="1019" y="378" key="#com.intellij.ide.util.MemberChooser" timestamp="1583376199560">
+    <state x="1019" y="378" key="#com.intellij.ide.util.MemberChooser" timestamp="1583406362396">
       <screen x="0" y="23" width="2560" height="1340" />
     </state>
-    <state x="1019" y="378" key="#com.intellij.ide.util.MemberChooser/2560.392.1920.1080/0.23.2560.1340@0.23.2560.1340" timestamp="1583376199560" />
+    <state x="1019" y="378" key="#com.intellij.ide.util.MemberChooser/2560.392.1920.1080/0.23.2560.1340@0.23.2560.1340" timestamp="1583406362396" />
     <state x="1019" y="378" key="#com.intellij.ide.util.MemberChooser/2560.392.1920.1080/0.23.2560.1341@0.23.2560.1341" timestamp="1583311977505" />
-    <state x="886" y="387" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583376690337">
+    <state x="886" y="387" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583406434128">
       <screen x="0" y="23" width="2560" height="1340" />
     </state>
-    <state x="886" y="387" key="#com.intellij.ide.util.TreeClassChooserDialog/2560.392.1920.1080/0.23.2560.1340@0.23.2560.1340" timestamp="1583376690337" />
+    <state x="886" y="387" key="#com.intellij.ide.util.TreeClassChooserDialog/2560.392.1920.1080/0.23.2560.1340@0.23.2560.1340" timestamp="1583406434128" />
     <state x="886" y="388" key="#com.intellij.ide.util.TreeClassChooserDialog/2560.392.1920.1080/0.23.2560.1342@0.23.2560.1342" timestamp="1583301831488" />
     <state x="881" y="316" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1583375311335">
       <screen x="0" y="23" width="2560" height="1340" />
@@ -226,25 +287,25 @@
       <screen x="0" y="23" width="2560" height="1340" />
     </state>
     <state x="1007" y="394" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/2560.392.1920.1080/0.23.2560.1340@0.23.2560.1340" timestamp="1583377013985" />
-    <state width="1400" height="347" key="GridCell.Tab.0.bottom" timestamp="1583377473543">
+    <state width="1786" height="347" key="GridCell.Tab.0.bottom" timestamp="1583406728426">
       <screen x="0" y="23" width="2560" height="1340" />
     </state>
-    <state width="1400" height="347" key="GridCell.Tab.0.bottom/2560.392.1920.1080/0.23.2560.1340@0.23.2560.1340" timestamp="1583377473543" />
+    <state width="1786" height="347" key="GridCell.Tab.0.bottom/2560.392.1920.1080/0.23.2560.1340@0.23.2560.1340" timestamp="1583406728426" />
     <state width="1693" height="324" key="GridCell.Tab.0.bottom/2560.392.1920.1080/0.23.2560.1341@0.23.2560.1341" timestamp="1583312156264" />
-    <state width="1400" height="347" key="GridCell.Tab.0.center" timestamp="1583377473542">
+    <state width="1786" height="347" key="GridCell.Tab.0.center" timestamp="1583406728425">
       <screen x="0" y="23" width="2560" height="1340" />
     </state>
-    <state width="1400" height="347" key="GridCell.Tab.0.center/2560.392.1920.1080/0.23.2560.1340@0.23.2560.1340" timestamp="1583377473542" />
+    <state width="1786" height="347" key="GridCell.Tab.0.center/2560.392.1920.1080/0.23.2560.1340@0.23.2560.1340" timestamp="1583406728425" />
     <state width="1693" height="324" key="GridCell.Tab.0.center/2560.392.1920.1080/0.23.2560.1341@0.23.2560.1341" timestamp="1583312156264" />
-    <state width="1400" height="347" key="GridCell.Tab.0.left" timestamp="1583377473542">
+    <state width="1786" height="347" key="GridCell.Tab.0.left" timestamp="1583406728425">
       <screen x="0" y="23" width="2560" height="1340" />
     </state>
-    <state width="1400" height="347" key="GridCell.Tab.0.left/2560.392.1920.1080/0.23.2560.1340@0.23.2560.1340" timestamp="1583377473542" />
+    <state width="1786" height="347" key="GridCell.Tab.0.left/2560.392.1920.1080/0.23.2560.1340@0.23.2560.1340" timestamp="1583406728425" />
     <state width="1693" height="324" key="GridCell.Tab.0.left/2560.392.1920.1080/0.23.2560.1341@0.23.2560.1341" timestamp="1583312156263" />
-    <state width="1400" height="347" key="GridCell.Tab.0.right" timestamp="1583377473543">
+    <state width="1786" height="347" key="GridCell.Tab.0.right" timestamp="1583406728426">
       <screen x="0" y="23" width="2560" height="1340" />
     </state>
-    <state width="1400" height="347" key="GridCell.Tab.0.right/2560.392.1920.1080/0.23.2560.1340@0.23.2560.1340" timestamp="1583377473543" />
+    <state width="1786" height="347" key="GridCell.Tab.0.right/2560.392.1920.1080/0.23.2560.1340@0.23.2560.1340" timestamp="1583406728426" />
     <state width="1693" height="324" key="GridCell.Tab.0.right/2560.392.1920.1080/0.23.2560.1341@0.23.2560.1341" timestamp="1583312156264" />
     <state width="1400" height="427" key="GridCell.Tab.1.bottom" timestamp="1583376625381">
       <screen x="0" y="23" width="2560" height="1340" />
@@ -281,13 +342,15 @@
       <screen x="0" y="23" width="2560" height="1340" />
     </state>
     <state x="1256" y="290" width="689" height="708" key="find.popup/2560.392.1920.1080/0.23.2560.1340@0.23.2560.1340" timestamp="1583322758061" />
-    <state x="993" y="473" key="new project wizard" timestamp="1583301435083">
-      <screen x="0" y="23" width="2560" height="1342" />
+    <state x="836" y="336" key="new project wizard" timestamp="1583393116047">
+      <screen x="0" y="23" width="2560" height="1340" />
     </state>
+    <state x="836" y="336" key="new project wizard/2560.392.1920.1080/0.23.2560.1340@0.23.2560.1340" timestamp="1583393116047" />
     <state x="993" y="473" key="new project wizard/2560.392.1920.1080/0.23.2560.1342@0.23.2560.1342" timestamp="1583301435083" />
-    <state x="816" y="307" width="670" height="676" key="search.everywhere.popup" timestamp="1583311972649">
-      <screen x="0" y="23" width="2560" height="1341" />
+    <state x="816" y="307" width="670" height="676" key="search.everywhere.popup" timestamp="1583399770600">
+      <screen x="0" y="23" width="2560" height="1340" />
     </state>
+    <state x="816" y="307" width="670" height="676" key="search.everywhere.popup/2560.392.1920.1080/0.23.2560.1340@0.23.2560.1340" timestamp="1583399770600" />
     <state x="816" y="307" width="670" height="676" key="search.everywhere.popup/2560.392.1920.1080/0.23.2560.1341@0.23.2560.1341" timestamp="1583311972649" />
   </component>
 </project>
